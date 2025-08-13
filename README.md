@@ -1,6 +1,9 @@
 	Cyber Security Internship – Task 6
 The Art of Building Unbreakable Passwords
-By: Gourav Swaroop • Date: 12/08/2025
+
+By: Gourav Swaroop 
+
+Date: 12/08/2025
 
 	Objective
 Design and test passwords of varying complexity to learn what makes them unbreakable, using PasswordMeter.com.
